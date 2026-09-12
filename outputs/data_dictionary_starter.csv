@@ -1,0 +1,32 @@
+column,dtype,unique_values,is_target
+having_IP_Address,category,"['-1', '1']",False
+URL_Length,category,"['-1', '0', '1']",False
+Shortining_Service,category,"['-1', '1']",False
+having_At_Symbol,category,"['-1', '1']",False
+double_slash_redirecting,category,"['-1', '1']",False
+Prefix_Suffix,category,"['-1', '1']",False
+having_Sub_Domain,category,"['-1', '0', '1']",False
+SSLfinal_State,category,"['-1', '0', '1']",False
+Domain_registeration_length,category,"['-1', '1']",False
+Favicon,category,"['-1', '1']",False
+port,category,"['-1', '1']",False
+HTTPS_token,category,"['-1', '1']",False
+Request_URL,category,"['-1', '1']",False
+URL_of_Anchor,category,"['-1', '0', '1']",False
+Links_in_tags,category,"['-1', '0', '1']",False
+SFH,category,"['-1', '0', '1']",False
+Submitting_to_email,category,"['-1', '1']",False
+Abnormal_URL,category,"['-1', '1']",False
+Redirect,category,"['0', '1']",False
+on_mouseover,category,"['-1', '1']",False
+RightClick,category,"['-1', '1']",False
+popUpWidnow,category,"['-1', '1']",False
+Iframe,category,"['-1', '1']",False
+age_of_domain,category,"['-1', '1']",False
+DNSRecord,category,"['-1', '1']",False
+web_traffic,category,"['-1', '0', '1']",False
+Page_Rank,category,"['-1', '1']",False
+Google_Index,category,"['-1', '1']",False
+Links_pointing_to_page,category,"['-1', '0', '1']",False
+Statistical_report,category,"['-1', '1']",False
+Result,int64,"[-1, 1]",True

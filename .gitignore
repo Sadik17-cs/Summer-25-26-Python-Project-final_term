@@ -14,9 +14,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Large datasets
-data/
 datasets/
-*.csv
 *.sqlite
 *.db
 
